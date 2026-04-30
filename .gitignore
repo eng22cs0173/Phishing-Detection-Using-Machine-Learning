@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Models
+*.pkl
+*.npy
+
+# Datasets
+*.csv
+datasets/
+training/
+
+# DB
+*.db
+
+# VS Code
+.vscode/
